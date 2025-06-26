@@ -1,4 +1,4 @@
-# Fintech Usage Dashboard – Project Documentation
+# Fintech Usage Analysis – POWER BI and DAX
 
 ## Overview
 This Power BI dashboard analyzes fintech adoption and user behavior across African markets. It provides insights into usage patterns, barriers to adoption, and opportunities for strategic expansion. The dashboard consists of four main pages:
