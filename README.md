@@ -6,7 +6,10 @@ This Power BI dashboard analyzes fintech adoption and user behavior across Afric
 ---
 
 ## 📄 **Page 1: Overview & Key Metrics**
+**OVERVIEW PAGE**
+![Overview](images/page_1.PNG)
 
+---
 **Objective:** Provide a general snapshot of fintech usage.
 
 **Key KPIs:**
@@ -30,7 +33,10 @@ This Power BI dashboard analyzes fintech adoption and user behavior across Afric
 ---
 
 ## 📄 **Page 2: Demographics & Usage Patterns**
+**USER DEMOGRAPHICS PAGE**
+![demographics](images/page_2.PNG)
 
+---
 **Objective:** Explore fintech usage across age groups, gender, urban/rural split, and phone types.
 
 **Key KPIs:**
@@ -52,6 +58,11 @@ This Power BI dashboard analyzes fintech adoption and user behavior across Afric
 
 ## 📄 **Page 3: Use Case & Barrier Analysis**
 
+**USAGE PAGE**
+![usage](images/page_3.PNG)
+
+---
+
 **Objective:** Analyze specific use cases and barriers faced by users.
 
 **Key KPIs:**
@@ -72,7 +83,10 @@ This Power BI dashboard analyzes fintech adoption and user behavior across Afric
 ---
 
 ## 📄 **Page 4: Strategic Insights and Adoption Gaps**
+**CONCLUSION PAGE**
+![conclusion](images/page_4.PNG)
 
+---
 **Key KPIs:**
 1. **Top 3 Use Cases**
 2. **%Users Using Multiple Use cases**
