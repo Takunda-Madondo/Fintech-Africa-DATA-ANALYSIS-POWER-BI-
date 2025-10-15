@@ -1,3 +1,28 @@
+# Fintech Africa Streamlit Dashboards
+
+This repository contains a Streamlit app that recreates dashboards for the Fintech usage dataset.
+
+How to run (Windows PowerShell):
+
+1. Create and activate your virtual environment (optional but recommended):
+
+```powershell
+python -m venv .venv; .\.venv\Scripts\Activate.ps1
+```
+
+2. Install dependencies:
+
+```powershell
+pip install -r requirements.txt
+```
+
+3. Run the app:
+
+```powershell
+streamlit run app.py
+```
+
+The app expects the CSV dataset in `datasets/fintech_usage_africa.csv` relative to the repository root.
 # Fintech Usage Analysis – POWER BI and DAX
 
 ## Overview
